@@ -1,18 +1,16 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Lara Miyakawa Ho",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/larapmho.png",
+    "email": "lho7@hawaii.edu",
+    "phone": "808-277-1899",
+    "website": "https://larapmho.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences and a B.A in Finance in the Department of Finance at the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2026.",
+    "location": { "address": "", "postalCode": "96712", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "larapmho", "url": "http://github.com/larapmho" },
+      { "network": "linkedin", "username": "laraho", "url": "www.linkedin.com/in/laraho" }
     ]
   },
   "interests": [
@@ -25,19 +23,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS","Git/GitHub"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-08-26",
       "endDate": "Present",
       "courses": [
       ]
