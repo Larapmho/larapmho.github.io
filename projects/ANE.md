@@ -9,7 +9,7 @@ labels:
   - Event Planning
   - Project Management
   - Budgeting
-summary: "I organized a large-scale Alumni Networking Event, with over 80 attendees, for the Business Executive Society of Tomorrow club."
+summary: "A large-scale Alumni Networking Event, with over 80 attendees, for the Business Executive Society of Tomorrow club."
 ---
 
 <div class="text-center p-4">
@@ -20,7 +20,7 @@ summary: "I organized a large-scale Alumni Networking Event, with over 80 attend
 
 
 
-Alumni Networking Event (ANE) is a signature semesterly event hosted by our club with the goal of strengthening alumni engagement while providing students with direct access to mentorship, career guidance, and professional networking opportunities.
+I was in charge of organizing and heading the Alumni Networking Event (ANE), a signature semesterly event hosted by our club with the goal of strengthening alumni engagement while providing students with direct access to mentorship, career guidance, and professional networking opportunities.
 
 The most recent event brought together over 80 attendees, including both alumni and current members. The program was structured to maximize meaningful interactions where students were paired with different alumni across three networking rounds and a dinner round, encouraging exposure to a diverse range of industries and career paths. This design encourages students to explore new interests, expand their professional networks, and gain insights into multiple career trajectories.
 
