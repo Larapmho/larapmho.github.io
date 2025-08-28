@@ -20,8 +20,12 @@ summary: "A large-scale Alumni Networking Event, with over 80 attendees, for the
 
 
 
-I was in charge of organizing and heading the Alumni Networking Event (ANE), a signature semesterly event hosted by our club with the goal of strengthening alumni engagement while providing students with direct access to mentorship, career guidance, and professional networking opportunities.
+Alumni Networking Event (ANE) is a signature semesterly event hosted by our club with the goal of strengthening alumni engagement while providing students with direct access to mentorship, career guidance, and professional networking opportunities.
 
 The most recent event brought together over 80 attendees, including both alumni and current members. The program was structured to maximize meaningful interactions where students were paired with different alumni across three networking rounds and a dinner round, encouraging exposure to a diverse range of industries and career paths. This design encourages students to explore new interests, expand their professional networks, and gain insights into multiple career trajectories.
 
 The impact of ANE has been significant leading to many students forming long-lasting professional relationships with alumni, resulting in mentorship opportunities, internships, and even full-time positions. The event not only polishes student development but also strengthens the alumni community by encouraging continued involvement.
+
+In my role, I was in charge of organizing, planning, and executing the event from start to finish. This included coordinating various aspects such as scheduling, attendee registration, communication with alumni, task delegation, and structuring the networking and seating format. I also was responsible for budgeting and expense management to make sure the event was executed with the allocated funds. 
+
+From this experience, I gained practical skills in event management, budgeting, and communication. 
