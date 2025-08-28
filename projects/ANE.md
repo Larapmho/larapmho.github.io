@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width = "200px" src="../img/IMG_7297.JPG">
+image: img/Cropped_Image.png
 title: "Alumni Networking Event"
 date: 2025
 published: true
