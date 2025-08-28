@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/IMG_7297.JPG
 title: "Alumni Networking Event"
 date: 2025
 published: true
@@ -13,9 +13,9 @@ summary: "I organized a large-scale Alumni Networking Event, with over 80 attend
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="https://pasteboard.co/4T7miz6hLtkC.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/IMG_9957.JPG" class="img-thumbnail" >
+  <img width="200px" src="../img/IMG_9985.JPG" class="img-thumbnail" >
+  <img width="200px" src="../img/IMG_7278.JPG" class="img-thumbnail" >
 </div>
 
 
