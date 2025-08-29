@@ -31,8 +31,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2026)", "Finance (expected Fall, 2026) ",
-      "studyType": "B.S.","B.A",
+      "area": "Computer Science (expected Fall 2026), Finance (expected Fall 2026)", 
+      "studyType": "B.A., B.A",
       "startDate": "2022-08-22",
       "endDate": "Present",
       "courses": [
@@ -41,74 +41,84 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "N&K CPAs",
+      "position": "Audit Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2025-06-09",
+      "endDate": "2025-08-14",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assist in the preparation and review of financial statements in accordance with GAAP and relevant regulatory standards",
+        " Perform compliance testing and analytical procedures to identify trends, variances, and potential misstatements",
+        "Support audit teams in risk assessment and internal control evaluations", "Collaborate with team members to meet deadlines and ensure high-quality deliverables","Contribute to budgeting and audit planning efforts through data gathering and documentation"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Kumon",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2021-09-25",
+      "endDate": "2023-9-30",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Prepare daily assignments, homework, and testing",
+        "Instruct and assist over 50 students in their activities",
+        "Manage employees, train new hires, and communicate with parents in absence of supervisor"
       ]
     }
   ],
-  "volunteer": [
+  "Activities": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Business Executive Society of Tomorrow",
+      "website": "https//:www.bestuhm.org",
+      "position": "Vice President",
+      "startDate": "2024-08-26",
+      "endDate": "2025-07-14",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        " Oversee and maintain an alumni database of 300+ members, ensuring up-to-date records and engagement",
+        "Plan and execute alumni-focused initiatives, including social events, newsletters, and large-scale gatherings with 70+ participants",
+        "Lead club member recruitment efforts, increasing engagement and participation through strategic outreach"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Business Executive Society of Tomorrow",
+      "website": "Director of Corporate Relations",
+      "position": "https//:www.bestuhm.org",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-30",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Organize a Professional Interaction Night with over 80 students and professionals",
+        "Further professional growth and goals of members by organizing six tours with various corporations",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Visionary Dist. Scholarship",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii",
+      "summary": ""
+    },
+    {
+      "title": "Eddie Flores, Jr. & Elaine Flores Endowed Scholarship",
+      "date": "2023",
+      "awarder": "Shidler College of Business",
+      "summary": ""
     }
+    
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "Evelyne Raposo": "Available upon request",
+     "Henrique Regina": "Available upon request",
     }
   ]
 }
