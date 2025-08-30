@@ -84,4 +84,40 @@
     },
     {
       "organization": "Business Executive Society of Tomorrow",
-      "website": "htt
+      "website": "https://www.bestuhm.org",
+      "position": "Director of Corporate Relations",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-30",
+      "summary": "",
+      "highlights": [
+        "Organize a Professional Interaction Night with over 80 students and professionals",
+        "Further professional growth and goals of members by organizing six tours with various corporations"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii",
+      "summary": ""
+    },
+    {
+      "title": "Manoa Visionary Dist. Scholarship",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii",
+      "summary": ""
+    },
+    {
+      "title": "Eddie Flores, Jr. & Elaine Flores Endowed Scholarship",
+      "date": "2023",
+      "awarder": "Shidler College of Business",
+      "summary": ""
+    }
+  ],
+  "references": [
+    { "name": "Evelyne Raposo", "reference": "Available upon request" },
+    { "name": "Henrique Regina", "reference": "Available upon request" }
+  ]
+}
+
