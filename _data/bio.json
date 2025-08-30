@@ -9,34 +9,33 @@
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences and a B.A in Finance in the Department of Finance at the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2026.",
     "location": { "address": "", "postalCode": "96712", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "larapmho", "url": "http://github.com/larapmho" },
-      { "network": "linkedin", "username": "laraho", "url": "http://linkedin.com/in/laraho" }
+      { "network": "github", "username": "larapmho", "url": "https://github.com/larapmho" },
+      { "network": "linkedin", "username": "laraho", "url": "https://linkedin.com/in/laraho" }
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Finance" },
-    { "name": "Fintech" },
+    { "name": "Fintech" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript"]
+      "keywords": ["C", "C++", "Java", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS","Git/GitHub"]
+      "keywords": ["MacOS", "Git/GitHub"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall 2026), Finance (expected Fall 2026)", 
+      "area": "Computer Science (expected Fall 2026), Finance (expected Fall 2026)",
       "studyType": "B.A., B.A",
       "startDate": "2022-08-22",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -49,8 +48,10 @@
       "summary": "",
       "highlights": [
         "Assist in the preparation and review of financial statements in accordance with GAAP and relevant regulatory standards",
-        " Perform compliance testing and analytical procedures to identify trends, variances, and potential misstatements",
-        "Support audit teams in risk assessment and internal control evaluations", "Collaborate with team members to meet deadlines and ensure high-quality deliverables","Contribute to budgeting and audit planning efforts through data gathering and documentation"
+        "Perform compliance testing and analytical procedures to identify trends, variances, and potential misstatements",
+        "Support audit teams in risk assessment and internal control evaluations",
+        "Collaborate with team members to meet deadlines and ensure high-quality deliverables",
+        "Contribute to budgeting and audit planning efforts through data gathering and documentation"
       ]
     },
     {
@@ -58,66 +59,29 @@
       "position": "Teaching Assistant",
       "website": "",
       "startDate": "2021-09-25",
-      "endDate": "2023-9-30",
+      "endDate": "2023-09-30",
       "summary": "",
       "highlights": [
         "Prepare daily assignments, homework, and testing",
         "Instruct and assist over 50 students in their activities",
         "Manage employees, train new hires, and communicate with parents in absence of supervisor"
+      ]
     }
   ],
   "Activities": [
     {
       "organization": "Business Executive Society of Tomorrow",
-      "website": "https//:www.bestuhm.org",
+      "website": "https://www.bestuhm.org",
       "position": "Vice President",
       "startDate": "2024-08-26",
       "endDate": "2025-07-14",
       "summary": "",
       "highlights": [
-        " Oversee and maintain an alumni database of 300+ members, ensuring up-to-date records and engagement",
+        "Oversee and maintain an alumni database of 300+ members, ensuring up-to-date records and engagement",
         "Plan and execute alumni-focused initiatives, including social events, newsletters, and large-scale gatherings with 70+ participants",
         "Lead club member recruitment efforts, increasing engagement and participation through strategic outreach"
       ]
     },
     {
       "organization": "Business Executive Society of Tomorrow",
-      "website": "Director of Corporate Relations",
-      "position": "https//:www.bestuhm.org",
-      "startDate": "2023-06-01",
-      "endDate": "2023-12-30",
-      "summary": "",
-      "highlights": [
-        "Organize a Professional Interaction Night with over 80 students and professionals",
-        "Further professional growth and goals of members by organizing six tours with various corporations",
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Manoa Academic Merit Scholarship",
-      "date": "2022-Present",
-      "awarder": "University of Hawaii",
-      "summary": ""
-    },
-    {
-      "title": "Manoa Visionary Dist. Scholarship",
-      "date": "2022-Present",
-      "awarder": "University of Hawaii",
-      "summary": ""
-    },
-    {
-      "title": "Eddie Flores, Jr. & Elaine Flores Endowed Scholarship",
-      "date": "2023",
-      "awarder": "Shidler College of Business",
-      "summary": ""
-    }
-    
-  ],
-  "references": [
-    {
-      "Evelyne Raposo": "Available upon request",
-     "Henrique Regina": "Available upon request",
-    }
-  ]
-}
+      "website": "htt
