@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "From Building Legos to Building Code"
+title: "Code, Clock, Cuckoo"
 # All dates must be YYYY-MM-DD format!
 date: 2025-08-29
 published: true
