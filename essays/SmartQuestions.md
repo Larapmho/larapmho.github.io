@@ -11,7 +11,7 @@ labels:
   - Stack Overflow
   - Professional Development
 ---
-
+<img width="100px" class="rounded float-start pe-4" src="../img/question.jpg">
 
 One of the first lessons I am learning as a developing software engineer is that communication is just as important as code. Eric Raymond reminds us of this in his essay How to Ask Questions the Smart Way, where he argues that the way we frame our questions can determine whether we receive silence, frustration, or a meaningful answer. I wanted to see how his advice actually plays out in the real world, so I turned to Stack Overflow. There, I found two questions that demonstrate the difference between asking in the “smart” way and asking in the “not so smart” way. What I discovered confirmed that good communication is not only essential for solving problems quickly but also for contributing to a community that thrives on shared knowledge.
 
