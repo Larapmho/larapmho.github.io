@@ -9,7 +9,7 @@ labels:
   - Athletic Software Engineering
   - Typescript
 ---
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/cuckooclock.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/cuckooclock.jpg">
 
 Before this class, Typescript was uncharted territory for me, and even though it has only been a few weeks working with this language, I like TypeScript so far. It is a language I find is very easy to approach. Since it is similar to Java, it feels somewhat familiar, which makes the learning curve less steep. At the same time, whilst learning TypeScript, I realized that I still needed to refresh and improve on my Java skills, which I started working on over the summer through the pre-game modules, so the similarities are both helpful and motivating. One of the assignments I particularly enjoyed was the ES6 module. The explanations about TypeScript were very clear and then reinforced with practice problems, which really helped cement the concepts for me. I also noticed that functions and other parts of the language seem more descriptive in TypeScript, making it easier for me to understand what the code is doing. Even with this, I know I’ll need more practice to feel confident and truly master the material.
 
