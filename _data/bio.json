@@ -66,7 +66,9 @@
         "Instruct and assist over 50 students in their activities",
         "Manage employees, train new hires, and communicate with parents in absence of supervisor"
       ]
-    },
+    }
+  ],
+  "activities": [
     {
       "organization": "Business Executive Society of Tomorrow",
       "website": "https://www.bestuhm.org",
