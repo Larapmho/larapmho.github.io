@@ -2,12 +2,12 @@
   "basics": {
     "name": "Lara Miyakawa Ho",
     "label": "Student",
-    "picture": "https://github.com/larapmho.png",
+    "image": "https://github.com/larapmho.png",
     "email": "lho7@hawaii.edu",
     "phone": "808-277-1899",
-    "website": "https://larapmho.github.io",
+    "url": "https://larapmho.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences and a B.A in Finance in the Department of Finance at the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2026.",
-    "location": { "address": "", "postalCode": "96712", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96712", "city": "Honolulu", "countryCode": "US", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "larapmho", "url": "https://github.com/larapmho" },
       { "network": "linkedin", "username": "laraho", "url": "https://linkedin.com/in/laraho" }
@@ -34,7 +34,6 @@
       "area": "Computer Science (expected Fall 2026), Finance (expected Fall 2026)",
       "studyType": "B.A., B.A",
       "startDate": "2022-08-22",
-      "endDate": "Present",
       "courses": []
     }
   ],
@@ -42,7 +41,7 @@
     {
       "company": "N&K CPAs",
       "position": "Audit Intern",
-      "website": "",
+      "url": "",
       "startDate": "2025-06-09",
       "endDate": "2025-08-14",
       "summary": "",
@@ -57,7 +56,7 @@
     {
       "company": "Kumon",
       "position": "Teaching Assistant",
-      "website": "",
+      "url": "",
       "startDate": "2021-09-25",
       "endDate": "2023-09-30",
       "summary": "",
@@ -68,10 +67,10 @@
       ]
     }
   ],
-  "activities": [
+  "volunteer": [
     {
       "organization": "Business Executive Society of Tomorrow",
-      "website": "https://www.bestuhm.org",
+      "url": "https://www.bestuhm.org",
       "position": "Vice President",
       "startDate": "2024-08-26",
       "endDate": "2025-07-14",
@@ -84,7 +83,7 @@
     },
     {
       "organization": "Business Executive Society of Tomorrow",
-      "website": "https://www.bestuhm.org",
+      "url": "https://www.bestuhm.org",
       "position": "Director of Corporate Relations",
       "startDate": "2023-06-01",
       "endDate": "2023-12-30",
@@ -98,15 +97,15 @@
   "awards": [
     {
       "title": "Manoa Academic Merit Scholarship",
-      "date": "2022-Present",
+      "date": "2022",
       "awarder": "University of Hawaii",
-      "summary": ""
+      "summary": "Ongoing."
     },
     {
       "title": "Manoa Visionary Dist. Scholarship",
-      "date": "2022-Present",
+      "date": "2022",
       "awarder": "University of Hawaii",
-      "summary": ""
+      "summary": "Ongoing."
     },
     {
       "title": "Eddie Flores, Jr. & Elaine Flores Endowed Scholarship",
@@ -120,4 +119,5 @@
     { "name": "Henrique Regina", "reference": "Available upon request" }
   ]
 }
+
 
