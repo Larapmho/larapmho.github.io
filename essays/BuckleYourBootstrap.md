@@ -7,9 +7,12 @@ date: 2025-10-03
 published: true
 labels:
   - Software Engineering
+  - HTML/CSS
+  - Frameworks
+  - Bootstrap5
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/Bootstrap.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/Bootstrap.png">
 
 
 ## Why Bother With UI Frameworks?
