@@ -16,6 +16,8 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../img/roomates.webp">
 Written by: Lara Miyakawa Ho, Brooke Clifton, and Harrison Gray
 
+## RoomMatch UHM
+
 ## Overview
 Finding a compatible roommate in Honolulu can be a frustrating experience for UH Mānoa students. Many turn to Facebook groups, Craigslist, or word of mouth, which often results in mismatched expectations, safety concerns, or scams. Students who are new to the island or moving between leases face added stress trying to secure affordable housing and trustworthy roommates.
 
