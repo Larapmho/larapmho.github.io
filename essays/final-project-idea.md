@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: "Final Project Idea - RoomMatch UHM"
 # All dates must be YYYY-MM-DD format!
 date: 2025-11-03
 published: true
