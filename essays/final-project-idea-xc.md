@@ -4,7 +4,7 @@ type: essay
 title: "Final Project Idea - PawPal Hawaii"
 # All dates must be YYYY-MM-DD format!
 date: 2025-11-03
-published: true
+published: false
 labels:
   - Software Engineering
   - NextJs
