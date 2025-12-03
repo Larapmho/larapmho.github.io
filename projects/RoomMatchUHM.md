@@ -34,21 +34,21 @@ The design emphasizes clarity, safety, and ease of use. Because UH email authent
 
 RoomMatch UHM was developed using Next.js, a powerful full-stack framework that integrates client and server logic within a single codebase. Working with this system provided me with hands-on experience building modern, scalable web applications.
 
-### Frontend
+#### Frontend
 
 The user interface was built with React, Next.js 14, and TypeScript. We used Bootstrap 5 and React-Bootstrap to ensure a responsive and consistent UI across all devices. This experience strengthened my ability to design clean layouts, reusable components, and accessible forms.
 
-### Backend
+#### Backend
 
 For backend logic, we implemented Next.js Server Actions, which allowed us to handle form submissions, database writes, and profile updates securely. Our database was built using:
 - Prisma ORM for schema modeling and migrations
 - PostgreSQL for persistent storage
 
-### Authentication and Deployment
+#### Authentication and Deployment
 
 Authentication was handled through NextAuth, configured to accept only @hawaii.edu email addresses. The final application was deployed to Vercel, enabling continuous deployment with every pull request merge.
 
-### Development Practices
+#### Development Practices
 
 This project required the consistent use of:
 - GitHub issue-driven project management
@@ -65,27 +65,27 @@ My Contributions to RoomMatch UHM
 
 Throughout the project, I contributed extensively to both the user interface and application structure. My primary responsibilities included:
 
-### 1. Navigation Bar (Navbar)
+#### 1. Navigation Bar (Navbar)
 
 I implemented the site-wide navigation bar, making sure it remained fully responsive, consistent, and intuitive. This included authenticated vs. unauthenticated states, collapsible menus, and clean Bootstrap styling across desktop and mobile screens.
 
-### 2. Footer
+#### 2. Footer
 
 I designed and implemented the application’s footer, providing structural continuity across pages and maintaining a professional layout consistent with the UI style guide.
 
-### 3. Sign-In and Sign-Up Pages
+#### 3. Sign-In and Sign-Up Pages
 
 I developed the authentication pages, which allowed users to register using their UH email, log in with secure form validation, and access protected routes only after authentication
 
-### 4. Meetings Page
+#### 4. Meetings Page
 
 I built the Meetings page interface, where users can view or schedule connections with potential roommates. This section is designed to support future expansion for built-in calendars or messaging features.
 
-### 5. Messages Page
+#### 5. Messages Page
 
 I created the Messages page layout, which lays the foundation for direct communication between students.
 
-### 6. Team Coordination
+#### 6. Team Coordination
 
 Beyond development tasks, I participated in weekly meetings, issue refinement, task estimation, testing, and group decision-making. Maintaining clear teamwork was essential for completing the project within the scheduled milestones.
 
