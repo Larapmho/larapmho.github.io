@@ -8,6 +8,8 @@ published: false
 labels:
   - Software Engineering
   - Design Patterns
+  - Management
+  - IDPM
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/software.webp">
