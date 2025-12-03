@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/roommatch.png
+image: img/square-image.jpg
 title: "RoomMatch UHM"
 date: 2025
 published: true
