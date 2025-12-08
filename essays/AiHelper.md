@@ -4,7 +4,7 @@ type: essay
 title: "AI Help Support"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-15
-published: false
+published: true
 labels:
   - Software Engineering
   - Artificial Intelligence
