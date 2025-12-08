@@ -4,7 +4,7 @@ type: project
 image: img/square-image.jpg
 title: "RoomMatch UHM"
 date: 2025
-published: false
+published: true
 labels:
   - React
   - NextJs
