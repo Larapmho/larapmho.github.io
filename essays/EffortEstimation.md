@@ -4,7 +4,7 @@ type: essay
 title: "Effort Estimation and Tracking: Technical Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-15
-published: false
+published: true
 labels:
   - Software Engineering
   - Artificial Intelligence
